@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Customer_Manager_Maven2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Customer_Manager_Maven2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Customer_Manager_Maven2/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
